@@ -150,7 +150,6 @@ Improve dashboard analytics with charts
 👨‍💻 Author
 
 Poodari Sai Nikhil
-B.Tech CSE (Data Science)
 Machine Learning & Cybersecurity Enthusiast
 
 GitHub: https://github.com/nikhilpoodari
